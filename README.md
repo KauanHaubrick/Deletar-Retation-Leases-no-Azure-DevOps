@@ -33,10 +33,13 @@ Este script automatiza essa limpeza usando a **Azure DevOps REST API**.
 
 No script, ajuste as variáveis:
 
+
 AZURE_DEVOPS_PAT = "SEU_PAT_AQUI"
 
 ORG = "SuaOrganizacao"
+
 PROJECT = "SeuProjeto"
+
 PIPELINE_ID = 00
 
 
